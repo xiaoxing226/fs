@@ -1,0 +1,18 @@
+
+{
+    "projectType": "web",
+    "defaultFiles": [
+        "index.html",
+        "admin.html",
+        "css/style.css",
+        "js/main.js",
+        "js/admin.js"
+    ],
+    "requiredApis": [
+        {
+            "name": "DEEPSEEK API",
+            "description": "用于标题翻译的API服务",
+            "docsUrl": "https://platform.deepseek.com/docs"
+        }
+    ]
+}
